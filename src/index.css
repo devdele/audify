@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Linik Sans", sans-serif;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+html {
+  scrollbar-width: none;
+}
